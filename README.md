@@ -12,8 +12,8 @@ MRI and Tabular Data: Preprocessed and cleaned both MRI and tabular data to ensu
 * Exploratory Data Analysis (EDA): Conducted a thorough analysis of the dataset to uncover key patterns and correlations relevant to Alzheimer's progression.
 
 * Model Development
-- Machine Learning and Deep Learning Models: Implemented various ML and DL models for Alzheimer’s detection, comparing and optimizing their performance.
-- Multi-Feature Model: Integrated MRI and tabular data features to develop a unified, multi-feature model.
+  - Machine Learning and Deep Learning Models: Implemented various ML and DL models for Alzheimer’s detection, comparing and optimizing their performance.
+  - Multi-Feature Model: Integrated MRI and tabular data features to develop a unified, multi-feature model.
 
 * Explainable AI (XAI) Integration
 Enhanced the multi-feature model with explainable AI to interpret the predictions and provide visual explanations of the MRI regions contributing significantly to each prediction. This helps in understanding which areas of the brain are influential in the early detection of Alzheimer’s disease.
